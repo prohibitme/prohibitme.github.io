@@ -2,3 +2,9 @@
 	padding:0;
 }
 
+.header{
+	background: #fa341f;
+}
+.header .logo{
+	background: red;
+}
