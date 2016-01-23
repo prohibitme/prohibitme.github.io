@@ -3,17 +3,21 @@
 }
 
 .header{
-	background: #fa341f;
+	background: #aabb55;
+	height: 40px;
+	max-height: 10%;
+	float: left;
 }
 .header .logo{
-	background: blue;
+	background: #55bbaa;
 }
 
 .header ul{
-	
+	text-decoration: none;
 }
 
 .header ul li{
 	text-decoration: none;
 	float: left;
+	width: 20%;
 }
